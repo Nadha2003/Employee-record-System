@@ -5,3 +5,10 @@ C:\Users\hudha\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.Asse
 C:\Users\hudha\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
 C:\Users\hudha\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
 C:\Users\hudha\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\hudha\Desktop\Employee-record-System\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\hudha\Desktop\Employee-record-System\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\hudha\Desktop\Employee-record-System\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\hudha\Desktop\Employee-record-System\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\hudha\Desktop\Employee-record-System\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\hudha\Desktop\Employee-record-System\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\hudha\Desktop\Employee-record-System\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
